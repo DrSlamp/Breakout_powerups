@@ -2,7 +2,12 @@
 Breakout game developed in python 
 
 First, instal .venv environment
+python3 -m venv .venv 
+source .venv/bin/activated
+
 install requeriments.txt
+pip install -r requeriments.txt
+
 
 Most of the code developed by:
 """
