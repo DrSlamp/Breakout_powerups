@@ -1,7 +1,7 @@
 # Breakout_powerups
 Breakout game developed in python 
 
-First, instal .venv environment
+First, install .venv environment
 python3 -m venv .venv 
 source .venv/bin/activated
 
