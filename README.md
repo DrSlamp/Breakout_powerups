@@ -1,6 +1,9 @@
 # Breakout_powerups
 Breakout game developed in python 
 
+First, instal .venv environment
+install requeriments.txt
+
 Most of the code developed by:
 """
 ISPPJ1 2023
